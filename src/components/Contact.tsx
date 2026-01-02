@@ -4,20 +4,20 @@ const contactLinks = [
   {
     icon: Mail,
     label: 'Email',
-    href: 'mailto:hello@avik.dev',
-    username: 'hello@avik.dev',
+    href: 'mailto:aviksrivastava786@gmail.com',
+    username: 'aviksrivastava786@gmail.com',
   },
   {
     icon: Linkedin,
     label: 'LinkedIn',
-    href: 'https://linkedin.com/in/avik',
+    href: 'https://www.linkedin.com/in/avik-srivastava-48922131b',
     username: 'in/avik',
   },
   {
     icon: Github,
     label: 'GitHub',
-    href: 'https://github.com/avik',
-    username: '@avik',
+    href: 'https://github.com/AvikSrivastava10',
+    username: '@AvikSrivastava10',
   },
 ];
 

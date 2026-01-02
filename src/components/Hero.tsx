@@ -13,7 +13,7 @@ export const Hero = () => {
       id="home"
       className="relative min-h-screen flex items-center overflow-hidden"
       style={{
-        background: 'linear-gradient(135deg, hsla(24, 62%, 48%, 1.00) 0%, hsla(0, 72%, 43%, 1.00) 35%, hsl(5, 0%, 8%) 70%)',
+        background: 'linear-gradient(135deg, hsla(23, 31%, 28%, 1.00) 0%, hsla(0, 72%, 43%, 1.00) 35%, hsl(5, 0%, 8%) 70%)',
       }}
     >
       {/* Background Gradient Orbs */}
